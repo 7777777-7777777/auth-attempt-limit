@@ -1,14 +1,14 @@
 {
-    "name": "manzhouya/auth-attempts",
+    "name": "7777777-7777777/auth-attempt-limit",
     "description": "Add captcha and login attempts for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "auth-attempts"],
-    "homepage": "https://github.com/manzhouya/auth-attempts",
+    "homepage": "https://github.com/7777777-7777777/auth-attempt-limit",
     "license": "MIT",
     "authors": [
         {
-            "name": "manzhouya",
-            "email": "manzhouya@gmail.com"
+            "name": "xhh",
+            "email": "191234086@gmail.com"
         }
     ],
     "require": {
