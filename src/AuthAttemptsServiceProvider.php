@@ -16,13 +16,13 @@ class AuthAttemptsServiceProvider extends ServiceProvider
         }
 
         if ($views = $extension->views()) {
-            $this->loadViewsFrom($views, 'auth-attempts');
+            $this->loadViewsFrom($views, 'auth-attempt-limit');
         }
 
         if ($this->app->runningInConsole() && $assets = $extension->assets()) {
             $this->publishes(
-                [$assets => public_path('vendor/manzhouya/auth-attempts')],
-                'auth-attempts'
+                [$assets => public_path('vendor/manzhouya/auth-attempt-limit')],
+                'auth-attempt-limit'
             );
         }
 

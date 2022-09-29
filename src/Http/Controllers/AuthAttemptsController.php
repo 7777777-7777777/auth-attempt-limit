@@ -27,7 +27,7 @@ class AuthAttemptsController extends BaseAuthController
             return redirect($this->redirectPath());
         }
 
-        return view('auth-attempts::login');
+        return view('auth-attempt-limit::login');
     }
 
     public function postLogin(Request $request)

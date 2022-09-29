@@ -6,7 +6,7 @@ use Encore\Admin\Extension;
 
 class AuthAttempts extends Extension
 {
-    public $name = 'auth-attempts';
+    public $name = 'auth-attempt-limit';
 
     public $views = __DIR__ . '/../resources/views';
 }

@@ -14,7 +14,7 @@ composer require 7777777-7777777/auth-attempt-limit
 In the extensions section of the `config/admin.php` file, add configurations
 ```
 'extensions' => [
-     'auth-attempts' => [
+     'auth-attempt-limit' => [
          // set to false if you want to disable this extension
          'enable' => true,
          
