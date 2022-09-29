@@ -3,14 +3,10 @@ Captcha and Login attempts for laravel-admin
 Add captcha and login attempts for laravel-admin
 
 
-### Screenshot
-![img](https://github.com/manzhouya/images/blob/master/images/1544165647.jpg?raw=true)
-
-
 ### Installation
 
 ```
-composer require 7777777-7777777/auth-attempts
+composer require 7777777-7777777/auth-attempt-limit
 ```
 
 ### Configuration
