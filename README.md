@@ -10,7 +10,7 @@ Add captcha and login attempts for laravel-admin
 ### Installation
 
 ```
-composer require BEYONDANY/auth-attempts
+composer require 7777777-7777777/auth-attempts
 ```
 
 ### Configuration
